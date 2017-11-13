@@ -1,4 +1,4 @@
-# Kill Nickelback
+# No Nickelback
 
 In this exercise, you're going to use a conditional statements. Let's look at a basic example.
 
